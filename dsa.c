@@ -224,20 +224,21 @@ read_data:
 
 update_data:
     printf("@@@@@@@@@@@@@@@@@@@ UPDATE EXISTING DATA @@@@@@@@@@@@@@@@@@@ \n");
-    char reg_no[7];
+    char update_reg_no[7];
     printf("Enter Student Registraion Number: \n");
     printf(">>>>>>>>> ");
-    scanf("%s", reg_no);
-
+    scanf("%s", update_reg_no);
+    printf("Text For Complete Code.................. \n");
 
     goto start;
 
 delete_data:
     printf("@@@@@@@@@@@@@@@@@@@ DELETE DATA @@@@@@@@@@@@@@@@@@@ \n");
-    char reg_no[7];
+    char delete_reg_no[7];
     printf("Enter Student Registraion Number: \n");
     printf(">>>>>>>>> ");
-    scanf("%s", reg_no);
+    scanf("%s", delete_reg_no);
+    printf("Text For Complete Code.................. \n");
 
     goto start;
 
