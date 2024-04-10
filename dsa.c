@@ -1,3 +1,9 @@
+/*
+Author: BADDYM
+Project: Data Structures and Algorithms (SAMPLE)
+Whatsapp: +256 781-181-958
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
